@@ -1,0 +1,22 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "no idea what to say here",
+  "main": "bash.js",
+  "scripts": {
+    "test": "requestAThing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcalf/Pair-Exercise-Node-Shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madcalf/Pair-Exercise-Node-Shell/issues"
+  },
+  "homepage": "https://github.com/madcalf/Pair-Exercise-Node-Shell#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
